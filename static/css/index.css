@@ -1,0 +1,26 @@
+.table-container {
+    max-height: 85%;
+    overflow-y: auto;
+}
+
+thead th {
+    position: sticky;
+    top: 0;
+    background-color: #fff; /* Ensure the header has a background color */
+    z-index: 1; /* Ensure the header is above the table rows */
+}
+
+
+.full-height {
+    height: 100vh;
+}
+
+.scrollable {
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.bg-python-blue {
+    background-color: #2D4A64;
+}
+

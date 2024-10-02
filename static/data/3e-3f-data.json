@@ -1,0 +1,355 @@
+{
+    "fecha": "2024-10-01",
+    "alumnos": [
+        {
+            "index": 1,
+            "matricula": "101920",
+            "nombres": "SERGIO ALBERTO",
+            "apellidoPaterno": "ARMENDARIZ",
+            "apellidoMaterno": "HERRERA",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 2,
+            "matricula": "102072",
+            "nombres": "DONOVAN GABRIEL",
+            "apellidoPaterno": "BAENA",
+            "apellidoMaterno": "MONTALVO",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 3,
+            "matricula": "101756",
+            "nombres": "DANIEL",
+            "apellidoPaterno": "BAENA",
+            "apellidoMaterno": "PICAZO",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 4,
+            "matricula": "101967",
+            "nombres": "LUCAS FABIAN",
+            "apellidoPaterno": "CRUZ",
+            "apellidoMaterno": "VAZQUEZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 5,
+            "matricula": "101786",
+            "nombres": "DIEGO ARMANDO",
+            "apellidoPaterno": "DUARTE",
+            "apellidoMaterno": "VIGIL",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 6,
+            "matricula": "102027",
+            "nombres": "JARED AZAEL",
+            "apellidoPaterno": "ESPINOSA",
+            "apellidoMaterno": "SIFUENTES",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 7,
+            "matricula": "101794",
+            "nombres": "FERNANDO ALONSO",
+            "apellidoPaterno": "FLORES",
+            "apellidoMaterno": "RAMOS",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 8,
+            "matricula": "101797",
+            "nombres": "IRVIN GIOVANNY",
+            "apellidoPaterno": "GARCIA",
+            "apellidoMaterno": "ALVAREZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 9,
+            "matricula": "101805",
+            "nombres": "CRISTIAN ALEJANDRO",
+            "apellidoPaterno": "GONZALEZ",
+            "apellidoMaterno": "CONTRERAS",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 10,
+            "matricula": "101907",
+            "nombres": "ALEXANDER URIEL",
+            "apellidoPaterno": "GONZALEZ",
+            "apellidoMaterno": "HERNANDEZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 11,
+            "matricula": "101908",
+            "nombres": "JOSE LUIS",
+            "apellidoPaterno": "GONZALEZ",
+            "apellidoMaterno": "HIPOLITO",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 12,
+            "matricula": "102090",
+            "nombres": "MONICA JACKELINE",
+            "apellidoPaterno": "GONZALEZ",
+            "apellidoMaterno": "RAMIREZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 13,
+            "matricula": "101811",
+            "nombres": "JESUS SANTIAGO",
+            "apellidoPaterno": "HERNANDEZ",
+            "apellidoMaterno": "CORTEZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 14,
+            "matricula": "101812",
+            "nombres": "LEIDY",
+            "apellidoPaterno": "HERNANDEZ",
+            "apellidoMaterno": "DEL ANGEL",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 15,
+            "matricula": "101821",
+            "nombres": "ARTURO SAMUEL",
+            "apellidoPaterno": "JUAREZ",
+            "apellidoMaterno": "VELAZCO",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 16,
+            "matricula": "101910",
+            "nombres": "GUILLERMO IVAN",
+            "apellidoPaterno": "LEOCADIO",
+            "apellidoMaterno": "HERNANDEZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 17,
+            "matricula": "101911",
+            "nombres": "CARLOS EMMANUEL",
+            "apellidoPaterno": "LOPEZ",
+            "apellidoMaterno": "VALDEZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 18,
+            "matricula": "101828",
+            "nombres": "MARLEN GUADALUPE",
+            "apellidoPaterno": "LORENZO",
+            "apellidoMaterno": "PINEDA",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 19,
+            "matricula": "101843",
+            "nombres": "JUAN JOSE",
+            "apellidoPaterno": "MONTOYA",
+            "apellidoMaterno": "CALDERON",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 20,
+            "matricula": "102007",
+            "nombres": "CRISTIAN RONALDO",
+            "apellidoPaterno": "MORALES",
+            "apellidoMaterno": "CANTU",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 21,
+            "matricula": "102039",
+            "nombres": "ENRIQUE",
+            "apellidoPaterno": "MORENO",
+            "apellidoMaterno": "RODRIGUEZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 22,
+            "matricula": "101857",
+            "nombres": "SOFIA CAROLINA",
+            "apellidoPaterno": "PEREZ",
+            "apellidoMaterno": "CASTAÑEDA",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 23,
+            "matricula": "101961",
+            "nombres": "EMMANUEL DE JESUS",
+            "apellidoPaterno": "PEREZ",
+            "apellidoMaterno": "JUAREZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 24,
+            "matricula": "101989",
+            "nombres": "JESUS OZIEL",
+            "apellidoPaterno": "RAMIREZ",
+            "apellidoMaterno": "REYES",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 25,
+            "matricula": "102059",
+            "nombres": "DONOVAN CALEB",
+            "apellidoPaterno": "REYNA",
+            "apellidoMaterno": "QUIROZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 26,
+            "matricula": "101870",
+            "nombres": "VANIA CAROLINA",
+            "apellidoPaterno": "RIVERA",
+            "apellidoMaterno": "VILLANUEVA",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 27,
+            "matricula": "101871",
+            "nombres": "ALEXI EMILIANO",
+            "apellidoPaterno": "ROBLES",
+            "apellidoMaterno": "VASQUEZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 28,
+            "matricula": "102038",
+            "nombres": "ALEJANDRO",
+            "apellidoPaterno": "ROSALES",
+            "apellidoMaterno": "DE LA CRUZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 29,
+            "matricula": "101882",
+            "nombres": "ANGEL ISRAEL",
+            "apellidoPaterno": "SALAS",
+            "apellidoMaterno": "GALLARDO",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 30,
+            "matricula": "101886",
+            "nombres": "VICTOR ADAN",
+            "apellidoPaterno": "SANCHEZ",
+            "apellidoMaterno": "GARCIA",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 31,
+            "matricula": "101888",
+            "nombres": "RICARDO",
+            "apellidoPaterno": "SANDOVAL",
+            "apellidoMaterno": "ALDAY",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 32,
+            "matricula": "102084",
+            "nombres": "MIGUEL ANGEL",
+            "apellidoPaterno": "SANTIAGO",
+            "apellidoMaterno": "PEREZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 33,
+            "matricula": "102046",
+            "nombres": "DAVID FERNANDO",
+            "apellidoPaterno": "VALDEZ",
+            "apellidoMaterno": "NAVA",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 34,
+            "matricula": "101901",
+            "nombres": "GERARDO EMANUEL",
+            "apellidoPaterno": "VELAZQUEZ",
+            "apellidoMaterno": "ALVAREZ",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": 35,
+            "matricula": "101906",
+            "nombres": "DEISY ARELI",
+            "apellidoPaterno": "ZUÑIGA",
+            "apellidoMaterno": "OBISPO",
+            "asistencia": false,
+            "falta": false,
+            "faltaJustificada": false
+        }
+    ]
+}

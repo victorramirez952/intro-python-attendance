@@ -1,0 +1,285 @@
+{
+    "fecha": "2024-10-01",
+    "alumnos": [
+        {
+            "index": "1",
+            "matricula": "101920",
+            "nombres": "SERGIO ALBERTO ARMENDARIZ HERRERA",
+            "asistencia": false,
+            "falta": true,
+            "faltaJustificada": false
+        },
+        {
+            "index": "2",
+            "matricula": "102072",
+            "nombres": "DONOVAN GABRIEL BAENA MONTALVO",
+            "asistencia": false,
+            "falta": true,
+            "faltaJustificada": false
+        },
+        {
+            "index": "3",
+            "matricula": "101756",
+            "nombres": "DANIEL BAENA PICAZO",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "4",
+            "matricula": "101967",
+            "nombres": "LUCAS FABIAN CRUZ VAZQUEZ",
+            "asistencia": false,
+            "falta": true,
+            "faltaJustificada": false
+        },
+        {
+            "index": "5",
+            "matricula": "101786",
+            "nombres": "DIEGO ARMANDO DUARTE VIGIL",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "6",
+            "matricula": "102027",
+            "nombres": "JARED AZAEL ESPINOSA SIFUENTES",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "7",
+            "matricula": "101794",
+            "nombres": "FERNANDO ALONSO FLORES RAMOS",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "8",
+            "matricula": "101797",
+            "nombres": "IRVIN GIOVANNY GARCIA ALVAREZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "9",
+            "matricula": "101805",
+            "nombres": "CRISTIAN ALEJANDRO GONZALEZ CONTRERAS",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "10",
+            "matricula": "101907",
+            "nombres": "ALEXANDER URIEL GONZALEZ HERNANDEZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "11",
+            "matricula": "101908",
+            "nombres": "JOSE LUIS GONZALEZ HIPOLITO",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "12",
+            "matricula": "102090",
+            "nombres": "MONICA JACKELINE GONZALEZ RAMIREZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "13",
+            "matricula": "101811",
+            "nombres": "JESUS SANTIAGO HERNANDEZ CORTEZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "14",
+            "matricula": "101812",
+            "nombres": "LEIDY HERNANDEZ DEL ANGEL",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "15",
+            "matricula": "101821",
+            "nombres": "ARTURO SAMUEL JUAREZ VELAZCO",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "16",
+            "matricula": "101910",
+            "nombres": "GUILLERMO IVAN LEOCADIO HERNANDEZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "17",
+            "matricula": "101911",
+            "nombres": "CARLOS EMMANUEL LOPEZ VALDEZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "18",
+            "matricula": "101828",
+            "nombres": "MARLEN GUADALUPE LORENZO PINEDA",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "19",
+            "matricula": "101843",
+            "nombres": "JUAN JOSE MONTOYA CALDERON",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "20",
+            "matricula": "102007",
+            "nombres": "CRISTIAN RONALDO MORALES CANTU",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "21",
+            "matricula": "102039",
+            "nombres": "ENRIQUE MORENO RODRIGUEZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "22",
+            "matricula": "101857",
+            "nombres": "SOFIA CAROLINA PEREZ CASTA\u00d1EDA",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "23",
+            "matricula": "101961",
+            "nombres": "EMMANUEL DE JESUS PEREZ JUAREZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "24",
+            "matricula": "101989",
+            "nombres": "JESUS OZIEL RAMIREZ REYES",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "25",
+            "matricula": "102059",
+            "nombres": "DONOVAN CALEB REYNA QUIROZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "26",
+            "matricula": "101870",
+            "nombres": "VANIA CAROLINA RIVERA VILLANUEVA",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "27",
+            "matricula": "101871",
+            "nombres": "ALEXI EMILIANO ROBLES VASQUEZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "28",
+            "matricula": "102038",
+            "nombres": "ALEJANDRO ROSALES DE LA CRUZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "29",
+            "matricula": "101882",
+            "nombres": "ANGEL ISRAEL SALAS GALLARDO",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "30",
+            "matricula": "101886",
+            "nombres": "VICTOR ADAN SANCHEZ GARCIA",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "31",
+            "matricula": "101888",
+            "nombres": "RICARDO SANDOVAL ALDAY",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "32",
+            "matricula": "102084",
+            "nombres": "MIGUEL ANGEL SANTIAGO PEREZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "33",
+            "matricula": "102046",
+            "nombres": "DAVID FERNANDO VALDEZ NAVA",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "34",
+            "matricula": "101901",
+            "nombres": "GERARDO EMANUEL VELAZQUEZ ALVAREZ",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        },
+        {
+            "index": "35",
+            "matricula": "101906",
+            "nombres": "DEISY ARELI ZU\u00d1IGA OBISPO",
+            "asistencia": true,
+            "falta": false,
+            "faltaJustificada": false
+        }
+    ]
+}
